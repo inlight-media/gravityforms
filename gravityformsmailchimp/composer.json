@@ -1,4 +1,5 @@
 {
   "name": "inlight-media/gravityformsmailchimp",
-  "type": "wordpress-plugin"
+  "type": "wordpress-plugin",
+  "version": "2.8.17"
 }
